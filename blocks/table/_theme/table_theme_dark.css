@@ -1,0 +1,9 @@
+  .table_theme_dark {
+    height: 500px;    
+    align-items: flex-end;
+    position: relative;
+    z-index: 1;
+  }
+
+
+

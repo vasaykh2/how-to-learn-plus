@@ -1,0 +1,5 @@
+/*section class="description"*/
+.description {
+    display: flex;
+    justify-content: center;
+  }

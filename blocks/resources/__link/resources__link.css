@@ -1,0 +1,6 @@
+.resources__link {
+    display: flex;
+    justify-content: center;
+    align-content: space-between;
+    margin: 80px auto 217px;  
+}
