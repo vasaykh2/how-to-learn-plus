@@ -3,6 +3,7 @@
     line-height: 18px;
     font-size: 18px;
     font-weight: normal;
+    margin-bottom: 10px;
     color: white;
     cursor: pointer;
     transition: color .2s linear;
