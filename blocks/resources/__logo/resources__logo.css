@@ -1,6 +1,7 @@
 .resources__logo {
+    display: flex;
     width: 270px;
     height: 38px;
-    background: center no-repeat;
-    background-size: contain;
+    align-items: center;
+    justify-content: center;
 }

@@ -2,5 +2,10 @@
     display: flex;
     justify-content: center;
     align-content: space-between;
-    margin: 80px auto 217px;  
+    margin: 80px auto 217px;
+    transition: opacity .3s linear;
+}
+
+.resources__link:hover {
+  opacity: 70%;
 }

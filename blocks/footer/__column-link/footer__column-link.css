@@ -1,12 +1,13 @@
-.footer__link {
+.footer__column-link {
     text-decoration: none;
     line-height: 18px;
     font-size: 18px;
     font-weight: normal;
     color: white;
     cursor: pointer;
+    transition: color .2s linear;
 }
 
-.footer__link:hover {
+.footer__column-link:hover {
     color: grey;
 }
