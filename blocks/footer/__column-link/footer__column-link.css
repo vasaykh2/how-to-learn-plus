@@ -12,3 +12,7 @@
 .footer__column-link:hover {
     color: grey;
 }
+
+li:last-child .footer__column-link {
+  margin-bottom: 0px;
+}

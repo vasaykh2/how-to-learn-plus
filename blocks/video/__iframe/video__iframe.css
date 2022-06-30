@@ -1,6 +1,15 @@
 .video__iframe {
     width: 515px;
     height: 316px;
-    margin: 0 10px;
-    frameborder: 0;
+    margin: 0;
+    border: 0;
+    z-index: 1;
+}
+
+.video__iframe:first-child {
+  margin-right: 10px;
+}
+
+.video__iframe:last-child {
+  margin-left: 10px;
 }
