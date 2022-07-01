@@ -3,6 +3,7 @@
     justify-content: center;
     align-content: space-between;
     margin: 80px auto 217px;
+    list-style-type: none;
     transition: opacity .3s linear;
 }
 

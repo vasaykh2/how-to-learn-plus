@@ -1,5 +1,7 @@
 .cards {
     display: flex;
     flex-wrap: wrap;
-    width: 920px;    
+    width: 920px;
+    list-style-type: none;
+    column-gap: 100px;
 }
