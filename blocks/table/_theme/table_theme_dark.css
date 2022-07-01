@@ -1,6 +1,8 @@
   .table_theme_dark {
     position: relative;
     z-index: 1;
+    row-gap: 80px;
+    padding-top: 80px;
   }
 
 
