@@ -6,10 +6,10 @@
     z-index: 1;
 }
 
-.video__iframe:first-child {
+.video__item-iframes:first-child .video__iframe {
   margin-right: 10px;
 }
 
-.video__iframe:last-child {
+.video__item-iframes:last-child .video__iframe {
   margin-left: 10px;
 }

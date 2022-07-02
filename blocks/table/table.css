@@ -1,10 +1,11 @@
-  .table {
-    display: flex;
-    width: 1100px;
-    margin: 0 auto;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    row-gap: 60px;
-    padding-top: 60px;
-    list-style-type: none;
-  }
+.table {
+  padding: 0;
+  display: flex;
+  width: 1100px;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  row-gap: 60px;
+  padding-top: 60px;
+  list-style-type: none;
+}

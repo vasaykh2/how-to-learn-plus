@@ -1,3 +1,3 @@
 # how-to-learn-plus
 
-"How-to-learn-plus" is the first student work based on the Briefs Yandex Practice. The project consists of index.html and cascading style sheets, distributed in the file structure according to the BEM methodology.
+"How-to-learn-plus" - это первая студенческая работа, основанная на двух брифах Яндекс Практикума. Проект содержит файл index.html и каскадные таблицы стилей, распределенные в файловой структуре директории blocks в соответствии с БЭМ-методологией.
