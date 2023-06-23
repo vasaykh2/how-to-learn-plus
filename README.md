@@ -13,7 +13,7 @@
 **Методы**
 
 Сайт выполнен по макету.
-* [Ссылка на макет-1](https://code.s3.yandex.net/web-plus/project-1/sprint-1-brief.pdf) * [Ссылка на макет-2](https://code.s3.yandex.net/web-plus/project-1/sprint-2-brief.pdf)
+* [Ссылка на макет-1](https://code.s3.yandex.net/web-plus/project-1/sprint-1-brief.pdf),  [Ссылка на макет-2](https://code.s3.yandex.net/web-plus/project-1/sprint-2-brief.pdf)
 
 Таблицы стилей .css распределены в файловой структуре каталога blocks согласно методологии БЭМ Nested.
 Проектная работа размещена в созданном репозитории [Github] (https://github.com/vasaykh2/how-to-learn-plus).
