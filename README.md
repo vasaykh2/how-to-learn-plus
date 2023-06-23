@@ -13,7 +13,7 @@
 **Методы**
 
 Сайт выполнен по макету.
-* [Ссылка на макет](https://code.s3.yandex.net/web-plus/project-1/sprint-1-brief.pdf, https://code.s3.yandex.net/web-plus/project-1/sprint-2-brief.pdf)
+* [Ссылка на макет-1](https://code.s3.yandex.net/web-plus/project-1/sprint-1-brief.pdf) * [Ссылка на макет-2](https://code.s3.yandex.net/web-plus/project-1/sprint-2-brief.pdf)
 
 Таблицы стилей .css распределены в файловой структуре каталога blocks согласно методологии БЭМ Nested.
 Проектная работа размещена в созданном репозитории [Github] (https://github.com/vasaykh2/how-to-learn-plus).
@@ -30,4 +30,4 @@
 В файле .gitignore прописаны строки: node_modules и dist для push на GitHub.
 Использован инструментарий вкладки браузера Network для корректировки настройки стилей.
 
-* [Ссылка в vercel.com] (https://how-to-learn-plus-ebon.vercel.app/).
+* [Ссылка в vercel.com](https://how-to-learn-plus-ebon.vercel.app/).
